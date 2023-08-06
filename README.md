@@ -43,5 +43,5 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
 </div>
 
-<!-- status work -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatlinhis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- status work --> 
+
