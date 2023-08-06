@@ -12,6 +12,7 @@
 </div>
 <!-- Profile  -->
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -41,3 +42,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
 </div>
+
+<!-- status work -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-nhatlinhis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
