@@ -49,5 +49,4 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <!-- status work --> 
 ### :hammer_and_wrench: My status :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?nhatlinhis=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatlinhis&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
