@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <!-- Profile  -->
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
+I am a Front End Developer <img style="display: inline;" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
