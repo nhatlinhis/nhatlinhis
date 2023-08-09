@@ -1,4 +1,4 @@
-<div id="header" align="center" style="border-radius : 20px; height = 100; width = 100;  ">
+<div id="header" align="center" style="border-radius : 20px; height : 100; width : 100;  ">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
 <!--   <img src="https://camo.githubusercontent.com/e37ba631e0cde2bcb7c0c4cb4ddcbf9ebc464428f85a85a913fe2287f33ef192/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" width="100"/> -->
   <img style="object-fit=cover;" src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="100"/>
@@ -11,7 +11,7 @@
 <!-- lane  -->
 <div align="center">
 <!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
-  <img src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif" width="600" height="300"/>
+  <img src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif" width="600" height="300" style="border-radius: 40px;"/>
 </div>
 <!-- Profile  -->
 I am a Front End Developer <img style="display: inline-block;" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
