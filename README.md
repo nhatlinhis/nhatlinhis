@@ -1,144 +1,49 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-    }
-
-    header {
-      background-color: #24292e;
-      padding: 20px;
-      text-align: center;
-    }
-
-    h1 {
-      color: #fff;
-      font-size: 36px;
-      margin: 0;
-    }
-
-    main {
-      margin: 40px;
-    }
-
-    img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin: 20px auto;
-    }
-
-    p {
-      margin-bottom: 20px;
-    }
-
-    .info-box {
-      background-color: #f6f8fa;
-      border: 1px solid #e1e4e8;
-      border-radius: 6px;
-      padding: 20px;
-      margin-bottom: 40px;
-    }
-
-    .info-box h2 {
-      font-size: 24px;
-      margin-top: 0;
-    }
-
-    .info-box p {
-      margin-bottom: 0;
-    }
-
-    .cta-buttons {
-      text-align: center;
-      margin-top: 40px;
-    }
-
-    .cta-buttons a {
-      display: inline-block;
-      background-color: #0366d6;
-      color: #fff;
-      font-size: 20px;
-      padding: 10px 20px;
-      margin-right: 10px;
-      text-decoration: none;
-      border-radius: 6px;
-    }
-
-    .cta-buttons a:hover {
-      background-color: #044b99;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Project Name</h1>
-  </header>
-  
-  <main>
-    <section>
-      <h2>Description</h2>
-      <p>Write a brief description of your project here.</p>
-    </section>
-
-    <section>
-      <h2>Interface</h2>
-      <img src="path/to/screenshot1.jpg" alt="Screenshot 1">
-      <p>Caption for the first screenshot.</p>
-      
-      <img src="path/to/screenshot2.jpg" alt="Screenshot 2">
-      <p>Caption for the second screenshot.</p>
-    </section>
-
-    <section>
-      <h2>Installation</h2>
-      <p>Provide instructions on how to install and run your project locally.</p>
-      <pre><code>git clone https://github.com/username/repository.git
-cd repository
-npm install
-npm start</code></pre>
-    </section>
-
-    <section>
-      <h2>Contributing</h2>
-      <p>Explain how others can contribute to your project.</p>
-      <pre><code>1. Fork the repository.
-2. Create a new branch: <code>git checkout -b feature/your-feature</code>
-3. Make changes and commit: <code>git commit -m "Add your message here"</code>
-4. Push your branch: <code>git push origin feature/your-feature</code>
-5. Submit a pull request.</code></pre>
-    </section>
-
-    <section>
-      <h2>Contact</h2>
-      <p>If you have any questions or suggestions, feel free to contact us.</p>
-      <p>Name: Your Name</p>
-      <p>Project: <a href="https://github.com/username/repository">Repository Name</a></p>
-    </section>
-
-    <section>
-      <h2>License</h2>
-      <p>Specify the license under which your project is distributed.</p>
-      <p>Project is licensed under the [License Name](link_to_license). See the <a href="LICENSE">LICENSE</a> file for more information.</p>
-    </section>
-
-    <div class="cta-buttons">
-      <a href="https://github.com/username/repository">View on GitHub</a>
-      <a href="https://github.com/username/repository/archive/master.zip">Download ZIP</a>
-    </div>
-  </main>
-</body>
-</html>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
+<div id="header" align="center" style="border-radius : 20px; height : 100; width : 100; ">
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+<!--   <img src="https://camo.githubusercontent.com/e37ba631e0cde2bcb7c0c4cb4ddcbf9ebc464428f85a85a913fe2287f33ef192/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" width="100"/> -->
+  <img style="object-fit=cover;" src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="100"/>
 </div>
+<!-- .. xin chào -->
+<h1 align="center">
+  hey there, I'm Nguyen Nhat Linh 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<!-- lane  -->
+<div align="center">
+<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
+  <img src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif" width="600" height="300" style="border-radius: 40px;"/>
+</div>
+<!-- Profile  -->
+I am a Front End Developer <img style="display: inline-block;" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on stackoverflow and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nhatlinhis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nhatlinhis/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="BOOSTRAP" alt="SCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="tailwindCSS" alt="TAILWINDCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WORDPRESS"  alt="WordPress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="DOCKER"  alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA"  alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="CANVA"  alt="Canva" width="40" height="40"/>&nbsp;
 <!-- status work --> 
 ### 💻: My status :
 
